@@ -1,5 +1,4 @@
-# <p align="center"> 👋 Hi everyone 👋</span>
-</p>
+# <p align="center"> 👋 Hi everyone 👋</span> </p>
 <!-- I used html to center it as well as the gif -->
 
 <p align="center">
@@ -31,14 +30,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <code><img width="30px" height="30px"
 src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="Python"></code>
 <code><img width="30px" height="30px"
-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIk1H40_JhBpttFjSdtZ2roYoayMqIEJqFQ&s"title="Python"></code>
-<code><img width="30px" height="30px"
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3chG60acuIVC7cqWZu2K1qvak8hZt15YJQ&s"
-title="Python"></code>
+title="Mendeley"></code>
 <code><img width="30px" height="30px"
-src="https://avatars.githubusercontent.com/u/9284941?s=280&v=4" title="Python"></code>
+src="https://avatars.githubusercontent.com/u/9284941?s=280&v=4" title="Avogadro"></code>
 <code><img width="30px" height="30px"
-src="https://downloadlynet.ir/wp-content/uploads/2020/03/Mnova.png" title="Python"></code>
+src="https://downloadlynet.ir/wp-content/uploads/2020/03/Mnova.png" title="Mnova"></code>
+<img width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIk1H40_JhBpttFjSdtZ2roYoayMqIEJqFQ" title="ChemDraw">
 
 ## 🎓 Education & Training
 
