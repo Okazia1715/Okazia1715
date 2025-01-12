@@ -1,9 +1,11 @@
+<!-- I used html for badge images and a gif on this page, 
+they do not have alternate text -->
 # <p align="center"> 👋 Hi everyone 👋</span> </p>
-<!-- I used html to center it as well as the gif -->
+<!-- I used html to center it -->
 
 <p align="center">
   <img width="200" height="200" src="https://media1.tenor.com/m/8G1t26JRYskAAAAd/hi-black-cat.gif">
-</p> <!-- I used  html to add a very cute gif without alternative text -->
+</p> <!-- I used  html to add and center a very cute gif without alternative text -->
 
 Welcome to my GitHub profile! I'm a passionate tech enthusiast
 and a beginner in data science field. Here's a bit about me:
