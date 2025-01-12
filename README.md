@@ -21,7 +21,7 @@ Chemoinformatics ⚛️ to Data Science 🤖</p>
 
 ## 🛠️ Tech Stack
 <!-- I used html to add nice badges here, 
-some line are a bit longer than 80 characters because links are long 
+some lines are a bit longer than 80 characters because links are long 
 and I can not split them -->
 <code><img width="30px" height="30"
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
