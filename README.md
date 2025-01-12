@@ -12,7 +12,7 @@ and a beginner in data science field. Here's a bit about me:
 
 ## 🌟 About Me
 
-<p>👩‍💻 Tech Enthusiast: I have a deep-rooted passion for becoming an IT professional.</p>
+<p>👩‍💻 Tech Enthusiast: I have a deep-rooted passion for becoming an IT professional</p>
 <p>🎓 Lifelong Learner: From major in Chemistry ⚗️ through
 Chemoinformatics ⚛️ to Data Science 🤖</p>
 <p>🌍 Based in Montreal, Quebec, Canada 🍁</p>
@@ -50,7 +50,7 @@ and Informatics as my minor during my studies at KNU University in Kyiv, Ukraine
 - MIT Emerging Talent Foundation Track
 - Emica IT Support Professional studies
 - Volunteering at [UITVM Immigrant](https://immigrantcanada.org/uitvm/)
-to support tech-related community initiatives.
+to support tech-related community initiatives
 
 ## 🌳 Hobbies
 
