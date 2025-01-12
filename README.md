@@ -38,7 +38,7 @@ title="Mendeley"></code>
 src="https://avatars.githubusercontent.com/u/9284941?s=280&v=4" title="Avogadro"></code>
 <code><img width="30px" height="30px"
 src="https://downloadlynet.ir/wp-content/uploads/2020/03/Mnova.png" title="Mnova"></code>
-<img width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIk1H40_JhBpttFjSdtZ2roYoayMqIEJqFQ" title="ChemDraw">
+<code><img width="30px" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIk1H40_JhBpttFjSdtZ2roYoayMqIEJqFQ" title="ChemDraw"></code>
 
 ## 🎓 Education & Training
 
