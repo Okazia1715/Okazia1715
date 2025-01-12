@@ -1,15 +1,13 @@
-<p align="center">
-  <span style="font-size: 32px;">👋 Hi everyone 👋</span>
+# <p align="center"> 👋 Hi everyone 👋</span>
 </p>
 <!-- I used html to center it as well as the gif -->
 
 <p align="center">
-  <img width="300" height="200" src="https://media1.tenor.com/m/8G1t26JRYskAAAAd/hi-black-cat.gif">
-</p> <!-- It is a very cute gif without alternative text and I also used html -->
+  <img width="200" height="200" src="https://media1.tenor.com/m/8G1t26JRYskAAAAd/hi-black-cat.gif">
+</p> <!-- I used  html to add a very cute gif without alternative text -->
 
-<p style="font-size: 20px;">Welcome to my GitHub profile! I'm a passionate tech enthusiast
-and a beginner in data science field. Here's a bit about me:</p>
-<!-- I sed html to make this text bigger -->
+Welcome to my GitHub profile! I'm a passionate tech enthusiast
+and a beginner in data science field. Here's a bit about me:
 
 ## 🌟 About Me
 
